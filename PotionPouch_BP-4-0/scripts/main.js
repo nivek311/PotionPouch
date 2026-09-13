@@ -1,4 +1,3 @@
-import { world, system, EquipmentSlot, EntityComponentTypes, ItemComponentTypes, Potions } from "@minecraft/server";
 import { ActionFormData } from "@minecraft/server-ui";
 
 const POUCH_ID = "nivek:potion_pouch";

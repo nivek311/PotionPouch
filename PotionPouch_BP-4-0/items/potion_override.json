@@ -1,0 +1,13 @@
+{
+    "format_version": "1.21.110",
+    "minecraft:item": {
+      "description": {
+        "identifier": "minecraft:potion"
+      },
+      "components": {
+        "minecraft:storage_weight_modifier": {
+          "weight_in_storage_item": 1
+        }
+      }
+    }
+  }
