@@ -4,14 +4,31 @@
     "name": "Potion Pouch BP",
     "description": "Behavior pack for the Potion Pouch",
     "uuid": "a3ef0d57-081b-49a3-879d-4c6dcc8d5e08",
-    "version": [2, 0, 1],
+    "version": [3, 0, 0],
     "min_engine_version": [1, 21, 80]
   },
   "modules": [
     {
       "type": "data",
       "uuid": "8de68df0-23d4-4ebb-8f12-2e0eb23515b8",
-      "version": [2, 0, 1]
+      "version": [3, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "d3a2f1c4-6b9e-4a2d-8f3a-1e7c9b5d2a01",
+      "entry": "scripts/main.js",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.17.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.2.0"
     }
   ]
 }
