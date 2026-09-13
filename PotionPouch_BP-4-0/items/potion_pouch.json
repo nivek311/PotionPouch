@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.110",
+  "format_version": "1.21.80",
   "minecraft:item": {
     "description": {
       "identifier": "nivek:potion_pouch",
@@ -16,13 +16,16 @@
       "minecraft:max_stack_size": 1,
       "minecraft:hand_equipped": true,
       "minecraft:storage_item": {
-        "max_slots": 64,
+        "max_slots": 16,
         "allowed_items": [
           "minecraft:potion",
           "minecraft:splash_potion",
           "minecraft:lingering_potion"
         ],
         "allow_nested_storage_items": false
+      },
+      "minecraft:storage_weight_limit": {
+        "max_weight_limit": 64
       },
       "minecraft:bundle_interaction": {
         "num_viewable_slots": 8
