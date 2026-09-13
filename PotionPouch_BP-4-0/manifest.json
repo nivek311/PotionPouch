@@ -13,13 +13,6 @@
       "uuid": "8de68df0-23d4-4ebb-8f12-2e0eb23515b8",
       "version": [2, 0, 0]
     },
-    {
-      "type": "script",
-      "language": "javascript",
-      "uuid": "d3a2f1c4-6b9e-4a2d-8f3a-1e7c9b5d2a01",
-      "entry": "scripts/main.js",
-      "version": [1, 0, 0]
-    }
   ],
   "dependencies": [
     {
