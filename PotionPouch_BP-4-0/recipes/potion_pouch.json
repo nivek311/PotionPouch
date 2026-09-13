@@ -1,0 +1,27 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nivek:potion_pouch"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "ABA",
+      "ACA",
+      "DDD"
+    ],
+    "key": {
+      "A": { "item": "minecraft:redstone" },
+      "B": { "item": "minecraft:string" },
+      "C": { "item": "minecraft:leather" },
+      "D": { "item": "minecraft:lapis_lazuli" }
+    },
+    "unlock": [
+      { "item": "minecraft:leather" }
+    ],
+    "result": {
+      "item": "nivek:potion_pouch",
+      "count": 1
+    }
+  }
+}

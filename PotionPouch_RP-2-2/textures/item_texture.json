@@ -1,0 +1,15 @@
+{
+  "resource_pack_name": "Potion Pouch RP",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "potion_pouch": {
+      "textures": "textures/items/potion_pouch"
+    },
+    "potion_pouch_open_front": {
+      "textures": "textures/items/potion_pouch_open_front"
+    },
+    "potion_pouch_open_back": {
+      "textures": "textures/items/potion_pouch_open_back"
+    }
+  }
+}

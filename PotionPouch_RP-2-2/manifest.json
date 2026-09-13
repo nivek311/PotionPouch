@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Potion Pouch RP",
+    "description": "Resource pack for the Potion Pouch",
+    "uuid": "c539b879-5994-40c2-a61d-2b68fac393c8",
+    "version": [1, 0, 1],
+    "min_engine_version": [1, 21, 80]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "9c4425d2-c6a2-41f5-965a-40423436e3e7",
+      "version": [1, 0, 1]
+    }
+  ]
+}
