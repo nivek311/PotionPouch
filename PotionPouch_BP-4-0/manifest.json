@@ -12,16 +12,6 @@
       "type": "data",
       "uuid": "8de68df0-23d4-4ebb-8f12-2e0eb23515b8",
       "version": [2, 0, 0]
-    },
-  ],
-  "dependencies": [
-    {
-      "module_name": "@minecraft/server",
-      "version": "1.17.0"
-    },
-    {
-      "module_name": "@minecraft/server-ui",
-      "version": "1.2.0"
     }
   ]
 }
